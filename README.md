@@ -6,7 +6,7 @@ Inspired by [SteamDeckGyroDSU](https://github.com/kmicki/SteamDeckGyroDSU) by km
 
 ## Features
 - Supports up to **4 Steam Controllers simultaneously** (slots 0-3)
-- Works via **Bluetooth**, **USB-C**, and **Proteus Puck dongle**
+- Works via **Bluetooth**, **USB-C**, and **Proteus Puck dongle** 
 - Works along side **SteamDeckGyroDSU**
 - Automatic gyro bias calibration
 - Runs as a background service — starts automatically with your Steam Deck
